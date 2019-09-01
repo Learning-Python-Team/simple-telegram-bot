@@ -29,3 +29,4 @@ we'll use this library because it's well thought-out and has good documentation 
 - Create a virtual environment with `virtualenv -p python3 .venv` (as an example)
 - Install depedencies with `pip install -r requirements.txt`
 - Finally test everything with `python run.py` 
+- If you get stuck the project board is an additional place to look at for information.
